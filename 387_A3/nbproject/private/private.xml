@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Alex/Documents/NetBeansProjects/387_A3/src/java/com/abrams/soen387/repo/ui/DeleteServlet.java</file>
+            <file>file:/C:/Users/Alex/Documents/NetBeansProjects/387_A3/src/java/com/abrams/soen387/repo/core/BookRepository.java</file>
+            <file>file:/C:/Users/Alex/Documents/NetBeansProjects/387_A3/src/java/com/abrams/soen387/repo/ui/UpdateServlet.java</file>
+            <file>file:/C:/Users/Alex/Documents/NetBeansProjects/387_A3/src/java/com/abrams/soen387/repo/db/Table.java</file>
+            <file>file:/C:/Users/Alex/Documents/NetBeansProjects/387_A3/web/js/functions.js</file>
+            <file>file:/C:/Users/Alex/Documents/NetBeansProjects/387_A3/src/java/com/abrams/soen387/repo/db/BookGateway.java</file>
+            <file>file:/C:/Users/Alex/Documents/NetBeansProjects/387_A3/src/java/com/abrams/soen387/repo/ui/RepositoryServlet.java</file>
+            <file>file:/C:/Users/Alex/Documents/NetBeansProjects/387_A3/src/java/com/abrams/soen387/repo/service/ServiceServlet.java</file>
+        </group>
+    </open-files>
+</project-private>
